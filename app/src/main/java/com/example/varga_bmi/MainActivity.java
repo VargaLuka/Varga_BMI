@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     private void displayBMI(float bmi) {
         String bmiLabel = "";
 
-        if (Float.compare(bmi, 20f) <= 0) {
+        if (Float.compare(bmi, 19f) <= 0) {
             bmiLabel = getString(R.string.premalatezina);
         } else if (Float.compare(bmi, 20f) > 0  &&  Float.compare(bmi, 25f) <= 0) {
             bmiLabel = getString(R.string.normalnatezina);
