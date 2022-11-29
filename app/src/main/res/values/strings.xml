@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Varga_BMI</string>
+    <string name="visina">Visina</string>
+    <string name="tezina">Tezina</string>
+    <string name="calculateBMI">Racunaj BMI</string>
+
+    <string name="premalatezina">Premala tezina</string>
+    <string name="normalnatezina">Normalna tezina</string>
+    <string name="pretjeranatezina">Pretjerana tezina</string>
+</resources>
